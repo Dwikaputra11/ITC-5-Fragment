@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_addContact" type="id" />
+    <item name="fl_container" type="id" />
+    <item name="tv_input" type="id" />
+    <item name="section_label" type="id" />
+</resources>
